@@ -1,8 +1,17 @@
 ---
-title: "About me"
+title: "Maria's blog"
 ---
+Name: Olivieri Maria-Louisa
+
+Teacher :Ingrid Van Lancker
+
+Group: Group 2
+
+Class: BAC2 Biology
+
+Academic year: 2019-2020
+
+Topic:
 
 
-This section also must include: 
 
-- first name/surname, teacher’s name, class name and academic year
