@@ -10,8 +10,8 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href:  https://github.com/OlivieriMaria-Louisa/Blog
-base_url:  https://OlivieriMaria-Louisa.github.io/Blog/ 
+      href:  https://github.com/OlivieriMaria-Louisa/OlivieriMaria-Louisa-blog
+base_url:  https://OlivieriMaria-Louisa.github.io/OlivieriMaria-Louisa-blog/ 
 collections:
     posts:
       share: [twitter, linkedin, facebook]
