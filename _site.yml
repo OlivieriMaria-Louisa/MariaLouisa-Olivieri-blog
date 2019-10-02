@@ -10,8 +10,8 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href:  https://github.com/NOM-UTILISATEUR/PRENOM-NOM-blog
-base_url:  https://NOM-UTILISATEUR.github.io/PRENOM-NOM-blog/ 
+      href:  https://github.com/OlivieriMaria-Louisa/Blog
+base_url:  https://OlivieriMaria-Louisa.github.io/Blog/ 
 collections:
     posts:
       share: [twitter, linkedin, facebook]
