@@ -1,8 +1,8 @@
 ---
 title: "North American birds declined by 29% since 1970"
 description: |
-  A short description of the post.
-author:
+  This article discusses a North American study on birds.
+author: 
   - name: Olivieri Maria-Louisa
     url: {}
 date: 10-15-2019
@@ -17,7 +17,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Details
 
-* **Source of the article:** [link](https://www.medicalnewstoday.com/articles/326420.php) 
+* **Source of the article:** 
+<https://www.medicalnewstoday.com/articles/326420.php>
 * **Word count:** 839 
 
 ## Vocabulary
@@ -26,8 +27,25 @@ knitr::opts_chunk$set(echo = FALSE)
 | ------------------- | ------------------------------ | ------------------ |
 | E.g. To cope with   | To deal with                   | ------------------ |
 |                     | Not too distant future         | ------------------ |
+| E.g. To cope with   | To deal with                   | ------------------ |
+|                     | Not too distant future         | ------------------ |
+| E.g. To cope with   | To deal with                   | ------------------ |
+|                     | Not too distant future         | ------------------ |
+| E.g. To cope with   | To deal with                   | ------------------ |
+|                     | Not too distant future         | ------------------ |
+| E.g. To cope with   | To deal with                   | ------------------ |
+|                     | Not too distant future         | ------------------ |
+
 
 ## Analysis table about the study
 
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | (insert names and, if possible, professions)                        |
+| Published in?                | 26 September 2019                                                       |
+| General topic?               |  The big decline of birds in North America, based on studies spread over almost 50 years.                      |
+| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
+| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
+| Remaining questions?         | (check if there are still interrogations at the end of the article) |
 
 
