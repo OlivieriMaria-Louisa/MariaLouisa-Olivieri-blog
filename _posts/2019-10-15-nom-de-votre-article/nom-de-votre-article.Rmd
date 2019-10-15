@@ -25,8 +25,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Word from the text  | Synonym/explanation in English | French translation |
 | ------------------- | ------------------------------ | ------------------ |
-| E.g. To cope with   | To deal with                   | ------------------ |
-|                     | Not too distant future         | ------------------ |
+| to decline          | to become smaller or worse     | Décliner, baisser  |
+|                     | large in amount or value       | ------------------ |
 | E.g. To cope with   | To deal with                   | ------------------ |
 |                     | Not too distant future         | ------------------ |
 | E.g. To cope with   | To deal with                   | ------------------ |
