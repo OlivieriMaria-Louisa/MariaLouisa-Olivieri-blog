@@ -41,7 +41,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
+| Researchers                  | Tim Newman. He graduated in neuroscience. He's now working at the Medical News Today as a News writer.                  |
 | Published in?                | 26 September 2019                                                       |
 | General topic?               |  The big decline of birds in North America, based on studies spread over almost 50 years.                      |
 | Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
