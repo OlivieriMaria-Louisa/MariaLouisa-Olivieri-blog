@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-10-15-nom-de-votre-article/",
+    "title": "North American birds declined by 29% since 1970",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Olivieri Maria-Louisa",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-15",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-15T12:06:52+02:00"
+  },
+  {
     "path": "posts/2019-09-18-article-1/",
     "title": "Article 1",
     "description": {},
@@ -12,6 +27,6 @@
     "date": "2019-09-18",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-10-14T19:00:28+02:00"
+    "last_modified": "2019-10-15T12:14:12+02:00"
   }
 ]

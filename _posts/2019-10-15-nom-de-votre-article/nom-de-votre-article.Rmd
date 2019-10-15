@@ -1,0 +1,33 @@
+---
+title: "North American birds declined by 29% since 1970"
+description: |
+  A short description of the post.
+author:
+  - name: Olivieri Maria-Louisa
+    url: {}
+date: 10-15-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Details
+
+* **Source of the article:** [link](https://www.medicalnewstoday.com/articles/326420.php) 
+* **Word count:** 839 
+
+## Vocabulary
+
+| Word from the text  | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------ |
+| E.g. To cope with   | To deal with                   | ------------------ |
+|                     | Not too distant future         | ------------------ |
+
+## Analysis table about the study
+
+
+

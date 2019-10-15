@@ -19,10 +19,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| Word from the text  | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------ |
+| E.g. To cope with   | To deal with                   | ------------------ |
+|                     | Not too distant future         | ------------------ |
 
 ## Analysis table 
 
