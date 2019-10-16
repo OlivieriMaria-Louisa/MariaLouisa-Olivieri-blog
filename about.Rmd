@@ -1,17 +1,23 @@
 ---
 title: "Maria's blog"
 ---
-Name: Olivieri Maria-Louisa
+**Name:** Olivieri Maria-Louisa
 
-Teacher :Ingrid Van Lancker 
+**Teacher:** Ingrid Van Lancker 
 
-Group: Group 2
+**Group:** Group 2
 
-Class: BAC2 Biology
+**Class:** BAC2 Biology
 
-Academic year: 2019-2020
+**Academic year:** 2019-2020
 
-Topic: Birds population
+**Topic:** Birds population
+
+### Small introduction
+
+I am a student in Biology at Umons University in Belgium. This blog serves me as a platform to edit my portfolio, which is about the *" birds population"*. You will also find my activity journal about my daily life in English.
+
+
 
 
 
