@@ -27,9 +27,11 @@ knitr::opts_chunk$set(echo = FALSE)
 | ------------------- | ------------------------------ | ------------------ |
 | to decline          | to become smaller or worse     | Décliner, baisser  |
 | substantial         | large in amount or value       | substantiel/-elle  |
-|                     |                                |
-                    
-
+| hog                 | To take or use something all for oneself; to not allow others to have or use something.                              | Tout prendre pour soi
+| limelight           | The focus of public attention  | le feu des projecteurs |
+| attempt             | Make an effort to achieve or complete (something difficult) | tentative
+| wild                | living or growing in the natural environment; not domesticated or cultivated. | sauvage 
+|
 
 ## Analysis table about the study
 
