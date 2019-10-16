@@ -31,7 +31,51 @@ knitr::opts_chunk$set(echo = FALSE)
 | limelight           | The focus of public attention  | le feu des projecteurs |
 | attempt             | Make an effort to achieve or complete (something difficult) | tentative
 | wild                | living or growing in the natural environment; not domesticated or cultivated. | sauvage 
-|
+| sheer | Words used to describe amounts or quantities | important, grand |
+| stature | height | Taille
+| flighty | fickle, changeable | changeant, inconstant |
+| task | A piece of work to be done / duty | tâche 
+| data | Facts and statistics collected together for reference or analysis. | données |
+| bleak | not hopeful or encouraging | sombre, morne | 
+| instance | An example | exemple
+| sobering | Creating a more serious, sensible, or solemn mood. | qui donne à réfléchir | 
+| decrease | to become or make smaller | décroître |
+| warblers | a small bird that lives in trees and sings | fauvettes |
+| sparrows | a small, grey-brown bird that is especially common in towns | moineaux |
+| finches | any of various types of small singing bird with a short, wide, pointed beak | pinsons |
+| swallows | a small bird with pointed wings and a tail with two points that flies quickly and catches insects to eat as it flies | hirondelles | 
+| play pivotal role | play a crucial role | jouer un rôle crucial |
+| pests | an insect or small animal that is harmful or damages crops | nuisibles | 
+| seeds | the unit of reproduction of a flowering plant. | semence |
+| evidence | proof | preuve | 
+| threatened | cause (someone or something) to be vulnerable or at risk; endanger | menacer |
+| pervasive | invasive | envahissant |
+| among | in the middle of or surrounded by other things | parmi |
+| backyard | a small space surrounded by walls at the back of a house | une cour |
+| take notable hits | suffer | souffrir |
+| grassland | a large area of land covered with grass | prairie |
+| shorebirds | bird that frequents the shore | oiseaux de rivage |
+| struggle | to experience difficulty and make a very great effort in order to do something | lutter |
+| uncover | to discover | découvrir |
+| livelihoods | a means of securing the necessities of life | subsistance |
+| set out | to give the details of or explain something | expliquer | 
+| dwingling | to become smaller in size or amount, or fewer in number | diminuer |
+| occur | happen; take place | se produire |
+| hint | suggest or indicate something indirectly or covertly, insinuate | sous-entendre, insinuer |
+|overarching |
+| breeding | reproducing, procreation | reproduction |
+| urban sprawl | the uncontrolled expansion of urban areas | l'étalement urbain |
+| rely on | depend on with full trust or confidence | dépendre de |
+| gloomy | unhappy and without hope | lugubre, sombre | 
+| strengthening | to make something stronger or more effective | renforcement |
+| recovery | the process of becoming well again after an illness or injury | récupération |
+| waterfowl | any bird that spends much of its life on or around a river or lake | oiseaux aquatiques |
+| geese | plural of goose. A large water bird similar to a duck | oies |
+| wetland | a large area of land covered with swamp or marsh | zone humide |
+| partly | not completely | en partie |
+| stir up | to spark | susciter | 
+
+
 
 ## Analysis table about the study
 
