@@ -125,7 +125,7 @@ Although the findings provide little to celebrate, the authors hope that they wi
 | dwingling | to become smaller in size or amount, or fewer in number | diminuer |
 | occur | happen; take place | se produire |
 | hint | suggest or indicate something indirectly or covertly, insinuate | sous-entendre, insinuer |
-|overarching | 
+|overarching | Comprehensive or all-embracing. | global, complet |
 | breeding | reproducing, procreation | reproduction |
 | urban sprawl | the uncontrolled expansion of urban areas | l'étalement urbain |
 | rely on | depend on with full trust or confidence | dépendre de |
@@ -147,8 +147,10 @@ Although the findings provide little to celebrate, the authors hope that they wi
 | Researchers                  | Tim Newman. He graduated in neuroscience. He's now working at the Medical News Today as a News writer.                  |
 | Published in?                | 26 September 2019                                                       |
 | General topic?               |  The big decline of birds in North America, based on studies spread over almost 50 years.                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Procedure/what was examined? | Reasearchers from different institutions did the study (Canada and US). --> Analysis of the birds from the ground. --> Use of weather radars to detect migratory birds. --> Share of data independent of each other. --> Data spread over almost 50years. --> Observation of the decline of the common birds. --> Explanation of this loss. (not exactly sure yet) --> Solutions to solve / mitigate the problem.
+| Conclusions/discovery?       |  A decline of 29% (3 billion birds). 90% of these birds are common species.     |
+| Remaining questions?         | They are not really sure about the exact cause of the decline of birds. Is it just cats, pesticides, buildings or urban sprawl and agriculture? |
 
+## Sources
 
+<https://www.lexico.com/en> , <https://dictionary.cambridge.org/fr/> , <https://www.linguee.fr/francais-anglais> 
