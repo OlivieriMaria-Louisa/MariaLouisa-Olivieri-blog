@@ -15,11 +15,14 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+ 
 ## Details
 
 * **Source of the article:** 
 <https://www.medicalnewstoday.com/articles/326420.php> from Tim Newman. MedicalNewsTime, 09-26-2019.
 * **Word count:** 839 
+
+![](birdsinserio.jpg) 
 
 ## Article 
 
@@ -153,4 +156,4 @@ Although the findings provide little to celebrate, the authors hope that they wi
 
 ## Sources
 
-<https://www.lexico.com/en> , <https://dictionary.cambridge.org/fr/> , <https://www.linguee.fr/francais-anglais> 
+<https://www.lexico.com/en> , <https://dictionary.cambridge.org/fr/> , <https://www.linguee.fr/francais-anglais> , image :<https://www.google.be/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjlxLjE9aPlAhUPJlAKHUrBB3EQjRx6BAgBEAQ&url=https%3A%2F%2Fphys.org%2Fnews%2F2019-09-birds-decline-lake-constance.html&psig=AOvVaw1lRl4Nh5AqrmAgaZ3_hVMl&ust=1571422650981906>
