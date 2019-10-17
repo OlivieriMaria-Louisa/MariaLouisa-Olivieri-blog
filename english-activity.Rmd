@@ -29,3 +29,8 @@ title: "My english activity log"
 * I watched series on Netflix.
 * I watched a video about the declin of birds.
 <https://www.youtube.com/watch?v=Jps8ZkStK2Q>
+
+**17/10/2019**
+
+* I read the first article on Aurelie Pinchart's blog.
+* I worked on my presentation of Jellyfish with this article: <https://www.weforum.org/agenda/2019/01/how-an-explosion-of-jellyfish-is-wreaking-havoc/>

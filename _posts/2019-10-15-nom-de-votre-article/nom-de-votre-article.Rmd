@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Details
 
 * **Source of the article:** 
-<https://www.medicalnewstoday.com/articles/326420.php>
+<https://www.medicalnewstoday.com/articles/326420.php> from Tim Newman. MedicalNewsTime, 09-26-2019.
 * **Word count:** 839 
 
 ## Article 
@@ -144,7 +144,7 @@ Although the findings provide little to celebrate, the authors hope that they wi
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Tim Newman. He graduated in neuroscience. He's now working at the Medical News Today as a News writer.                  |
+| Researchers                  | Researchers from different institutions,They are scientist.(the American Bird Conservancy, the Bird Conservancy of the Rockies, the Cornell Laboratory of Ornithology, and Environment and Climate Change Canada) --> Adam Smith, Michael Parr, Peter Marra, Ken Rosenberg, and more. |
 | Published in?                | 26 September 2019                                                       |
 | General topic?               |  The big decline of birds in North America, based on studies spread over almost 50 years.                      |
 | Procedure/what was examined? | Reasearchers from different institutions did the study (Canada and US). --> Analysis of the birds from the ground. --> Use of weather radars to detect migratory birds. --> Share of data independent of each other. --> Data spread over almost 50years. --> Observation of the decline of the common birds. --> Explanation of this loss. (not exactly sure yet) --> Solutions to solve / mitigate the problem.
