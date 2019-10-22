@@ -14,5 +14,6 @@ navbar:
 base_url:  https://OlivieriMaria-Louisa.github.io/OlivieriMaria-Louisa-blog/ 
 collections:
     posts:
+    disqus: marias-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
