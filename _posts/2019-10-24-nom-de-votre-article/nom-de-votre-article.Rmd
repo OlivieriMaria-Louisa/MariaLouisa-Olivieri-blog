@@ -1,0 +1,39 @@
+---
+title: "Climate Change Is Shaping Up As an Utter Disaster for Much of America's Bird Life"
+description: |
+  The consequences of global warming on birds.
+author:
+  - name: Olivieri Maria-Louisa
+    url: {}
+date: 10-24-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Details
+
+* **Source of the article:** <https://time.com/5697804/climate-change-birds/> Time, 10-10-2019.
+* **Word count:** 605
+
+![](bird.jpeg)
+
+
+## Vocabulary
+
+| Word from the text  | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------ |
+|
+
+## Analysis table about the study
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |
+
+
+## Sources
