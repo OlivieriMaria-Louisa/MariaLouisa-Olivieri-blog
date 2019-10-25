@@ -1,7 +1,7 @@
 ---
 title: "Climate Change Is Shaping Up As an Utter Disaster for Much of America's Bird Life"
 description: |
-  The consequences of global warming on birds.
+  This article explains the consequences of global warming on birds.
 author:
   - name: Olivieri Maria-Louisa
     url: {}
@@ -27,7 +27,30 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Word from the text  | Synonym/explanation in English | French translation |
 | ------------------- | ------------------------------ | ------------------ |
-|
+| To shape up | To develop, to progress | Faconner, concevoir |
+| Utter | Total, complete | Total |
+| Sanderling |
+| Red-header woodpeckers | Bird that uses its strong beak to make holes in tree trunks in order to find insects to eat | Pics à tête rouge |
+| Owl | Bird with a flat face and large eyes that hunts small mammals at night | Chouette |
+| Assessment | The act of judging or deciding the amount, value, quality, or importance of something, or the judgment or decision that is made |Evaluation |
+| To depict | To represent or show something in a picture or story | Représenter, illuster |
+| Dire | Very serious or extreme | Désastreux, grave | 
+| Avian | Of or relating to birds | Aviaire |
+| To carry out | To do or complete something/ to accomplish | Réaliser, effectuer |
+| Commitment | A promise or firm decision to do something | Engagement |
+| Come on the heels of | Following close behind or soon after someone or something | Vient juste après, fait suite à |
+| Worsening | Becoming worse | Aggravation | 
+| Coal mine | The deep hole or system of holes under the ground from which coal is removed |Mine de charbon |
+| Broader | Very wide | Plus large |
+| To squeez | To press something firmly | Comprimer, presser |
+| Ongoing | Continuing to exist or develop | En cours |
+| To erase | To remove something | Effacer |
+| To revive | To come or bring something back to life | Relancer |
+| Solace | Help and comfort when you are feeling sad or worried | Réconfort |
+| To figure sb/sth out | To understand or solve something | Déterminer |
+| Loon | Large North American bird that eats fish | Plongeon huard | 
+
+
 
 ## Analysis table about the study
 
