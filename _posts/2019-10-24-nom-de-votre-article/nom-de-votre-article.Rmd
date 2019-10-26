@@ -56,7 +56,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |
+| Researchers                  | -> *Brooke Bateman*: climate scientist for the National Audubon Society. + -> *Mike Parr*: president of the American Bird Conservancy. |
+| Published in?                | 10 October 2019 |
+| General Topic                | One of the causes of bird declines in North America is global warming. |
+| Procedure/what was examined? |
+| Conclusions/discovery?       | Global warming threatens two-thirds of the birds of North America (about 600 species). There is a big risk of extinction. |
+| Remaining questions?         | If nobody settles the situation, will global warming lead to total extinction of common birds? |
 
 
 ## Sources
