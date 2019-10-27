@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * **Source of the article:** <https://time.com/5697804/climate-change-birds/> Time, 10-10-2019.
 * **Word count:** 605
 
-![](bird.jpeg)
+![](628761417.jpg)
 
 
 ## Vocabulary
@@ -56,12 +56,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | -> *Brooke Bateman*: climate scientist for the National Audubon Society. + -> *Mike Parr*: president of the American Bird Conservancy. |
+| Researchers                  | -> *Brooke Bateman*: climate scientist for the National Audubon Society. + -> *Mike Parr*: president of the American Bird Conservancy. + -> *Ken Rosenberg*: scientist |
 | Published in?                | 10 October 2019 |
 | General Topic                | One of the causes of bird declines in North America is global warming. |
-| Procedure/what was examined? |
+| Procedure/what was examined? | K.Rosenberg has released an alarming report regarding the loss of 3 million birds in North America. --> Researchers B.Baterman & M.Parr have done a study linking global warming to these losses. --> Output of a report predicts the loss of 600 birds (400 species) if the temperature increases from 1.5 to 3 degrees celcius. --> Global warming makes the situation worse. --> Explanation of the gravity of the subject. --> We can still save the situation by making great efforts. --> If nothing is done to reduce the warming, the birds will disappear. |
 | Conclusions/discovery?       | Global warming threatens two-thirds of the birds of North America (about 600 species). There is a big risk of extinction. |
 | Remaining questions?         | If nobody settles the situation, will global warming lead to total extinction of common birds? |
 
 
 ## Sources
+
+<https://www.lexico.com/en> , <https://dictionary.cambridge.org/fr/> , <https://www.linguee.fr/francais-anglais> , image: <https://www.haaretz.com/science-and-health/MAGAZINE-sheer-speed-of-global-warming-is-decimating-birds-say-scientists-1.6302093>
