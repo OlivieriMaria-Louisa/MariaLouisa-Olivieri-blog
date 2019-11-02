@@ -13,9 +13,24 @@ title: "Maria's blog"
 
 **Topic:** Birds population
 
-### Small introduction
+## Small introduction
 
-I am a student in Biology at Umons University in Belgium. This blog serves me as a platform to edit my portfolio, which is about the *" birds population"*. You will also find my activity journal about my daily life in English. I am passionate about birds, jellyfish and cephalopods.
+I am a student in Biology at Umons University in Belgium. This blog serves me as a platform to edit my portfolio, which is about the *" birds population"*. You will also find my activity journal about my daily life in English. 
+
+### I am passionate about...
+
+*Jellyfish*
+
+ ![](jellyfish.jpg)
+
+*Raptors*
+
+![](raptors.jpg)
+
+*Cephalopods*
+
+![](cephalopods.jpg)
+
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
