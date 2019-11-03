@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | ------------------- | ------------------------------ | ------------------ |
 | To shape up | To develop, to progress | Faconner, concevoir |
 | Utter | Total, complete | Total |
-| Sanderling |
+| Sanderling | Bird of marine shores, also called Sandpiper | Bécasseau sanderling |
 | Red-header woodpeckers | Bird that uses its strong beak to make holes in tree trunks in order to find insects to eat | Pics à tête rouge |
 | Owl | Bird with a flat face and large eyes that hunts small mammals at night | Chouette |
 | Assessment | The act of judging or deciding the amount, value, quality, or importance of something, or the judgment or decision that is made |Evaluation |
