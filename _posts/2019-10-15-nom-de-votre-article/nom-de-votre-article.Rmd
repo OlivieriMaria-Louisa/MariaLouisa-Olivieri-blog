@@ -6,7 +6,7 @@ author:
   - name: Olivieri Maria-Louisa
     url: {}
 date: 10-19-2019
-preview: bird.jpeg 
+preview: sparrow.jpg
 output:
   distill::distill_article:
     self_contained: false

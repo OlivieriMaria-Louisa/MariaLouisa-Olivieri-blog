@@ -11,8 +11,8 @@
     ],
     "date": "2019-10-24",
     "categories": [],
-    "preview": "posts/2019-10-24-nom-de-votre-article/628761417.jpg",
-    "last_modified": "2019-11-03T17:13:22+01:00"
+    "preview": "posts/2019-10-24-nom-de-votre-article/sanderling.jpg",
+    "last_modified": "2019-11-03T17:39:53+01:00"
   },
   {
     "path": "posts/2019-10-15-nom-de-votre-article/",
@@ -26,22 +26,7 @@
     ],
     "date": "2019-10-19",
     "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-02T10:23:39+01:00"
-  },
-  {
-    "path": "posts/2019-09-18-article-1/",
-    "title": "Exemple",
-    "description": {},
-    "author": [
-      {
-        "name": "Olivieri Maria-Louisa",
-        "url": {}
-      }
-    ],
-    "date": "2019-09-18",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-10-20T12:17:14+02:00"
+    "preview": "posts/2019-10-15-nom-de-votre-article/sparrow.jpg",
+    "last_modified": "2019-11-03T17:40:55+01:00"
   }
 ]
