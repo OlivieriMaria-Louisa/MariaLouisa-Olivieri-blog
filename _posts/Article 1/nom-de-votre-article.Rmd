@@ -1,0 +1,97 @@
+---
+title: "North American birds declined by 29% since 1970"
+description: |
+  This article discusses a North American study on birds.
+author: 
+  - name: Olivieri Maria-Louisa
+    url: {}
+date: 10-19-2019
+preview: sparrow.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+ 
+## Details
+
+* **Source of the article:** 
+<https://www.medicalnewstoday.com/articles/326420.php> from Tim Newman. MedicalNewsTime, 09-26-2019.
+* **Word count:** 839 
+
+![](birdsinserio.jpg) 
+
+## Vocabulary
+
+| Word from the text  | Synonym/explanation in English | French translation |
+| ------------------- | ------------------------------ | ------------------ |
+| to decline          | to become smaller or worse     | Décliner, baisser  |
+| substantial         | large in amount or value       | substantiel/-elle  |
+| hog                 | To take or use something all for oneself; to not allow others to have or use something.                              | Tout prendre pour soi
+| limelight           | The focus of public attention  | le feu des projecteurs |
+| attempt             | Make an effort to achieve or complete (something difficult) | tentative
+| wild                | living or growing in the natural environment; not domesticated or cultivated. | sauvage 
+| sheer | Words used to describe amounts or quantities | important, grand |
+| stature | height | Taille
+| flighty | fickle, changeable | changeant, inconstant |
+| task | A piece of work to be done / duty | tâche 
+| data | Facts and statistics collected together for reference or analysis. | données |
+| bleak | not hopeful or encouraging | sombre, morne | 
+| instance | An example | exemple
+| sobering | Creating a more serious, sensible, or solemn mood. | qui donne à réfléchir | 
+| decrease | to become or make smaller | décroître |
+| warblers | a small bird that lives in trees and sings | fauvettes |
+| sparrows | a small, grey-brown bird that is especially common in towns | moineaux |
+| finches | any of various types of small singing bird with a short, wide, pointed beak | pinsons |
+| swallows | a small bird with pointed wings and a tail with two points that flies quickly and catches insects to eat as it flies | hirondelles | 
+| play pivotal role | play a crucial role | jouer un rôle crucial |
+| pests | an insect or small animal that is harmful or damages crops | nuisibles | 
+| seeds | the unit of reproduction of a flowering plant. | semence |
+| evidence | proof | preuve | 
+| threatened | cause (someone or something) to be vulnerable or at risk; endanger | menacer |
+| pervasive | invasive | envahissant |
+| among | in the middle of or surrounded by other things | parmi |
+| backyard | a small space surrounded by walls at the back of a house | une cour |
+| take notable hits | suffer | souffrir |
+| grassland | a large area of land covered with grass | prairie |
+| shorebirds | bird that frequents the shore | oiseaux de rivage |
+| struggle | to experience difficulty and make a very great effort in order to do something | lutter |
+| uncover | to discover | découvrir |
+| livelihoods | a means of securing the necessities of life | subsistance |
+| set out | to give the details of or explain something | expliquer | 
+| dwingling | to become smaller in size or amount, or fewer in number | diminuer |
+| occur | happen; take place | se produire |
+| hint | suggest or indicate something indirectly or covertly, insinuate | sous-entendre, insinuer |
+|overarching | Comprehensive or all-embracing. | global, complet |
+| breeding | reproducing, procreation | reproduction |
+| urban sprawl | the uncontrolled expansion of urban areas | l'étalement urbain |
+| rely on | depend on with full trust or confidence | dépendre de |
+| gloomy | unhappy and without hope | lugubre, sombre | 
+| strengthening | to make something stronger or more effective | renforcement |
+| recovery | the process of becoming well again after an illness or injury | récupération |
+| waterfowl | any bird that spends much of its life on or around a river or lake | oiseaux aquatiques |
+| geese | plural of goose. A large water bird similar to a duck | oies |
+| wetland | a large area of land covered with swamp or marsh | zone humide |
+| partly | not completely | en partie |
+| stir up | to spark | susciter | 
+
+
+
+## Analysis table about the study
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Researchers from different institutions,They are scientist.(*the American Bird Conservancy*, *the Bird Conservancy of the Rockies*, *the Cornell Laboratory of Ornithology*, and *Environment and Climate Change Canada*) --> *Adam Smith*, *Michael Parr*, *Peter Marra*, *Ken Rosenberg*, and more. |
+| Published in?                | 26 September 2019                                                       |
+| General topic?               |  The big **decline** of birds in North America, based on studies spread over almost **50 years**.                      |
+| Procedure/what was examined? | Reasearchers from different institutions did the study (Canada and US). --> Analysis of the birds from the ground. --> Use of **weather radars** to detect migratory birds. --> Share of data independent of each other. --> Data spread over almost **50years**. --> Observation of the **decline** of the common birds. --> Explanation of this loss. (not exactly sure yet) --> Solutions to solve / mitigate the problem.
+| Conclusions/discovery?       |  A decline of **29%** (**3 billion birds**). 90% of these birds are common species.     |
+| Remaining questions?         | They are not really sure about the exact cause of the decline of birds. Is it just cats, pesticides, buildings or urban sprawl and agriculture? |
+
+## Sources
+
+<https://www.lexico.com/en> , <https://dictionary.cambridge.org/fr/> , <https://www.linguee.fr/francais-anglais> , image :<https://www.google.be/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjlxLjE9aPlAhUPJlAKHUrBB3EQjRx6BAgBEAQ&url=https%3A%2F%2Fphys.org%2Fnews%2F2019-09-birds-decline-lake-constance.html&psig=AOvVaw1lRl4Nh5AqrmAgaZ3_hVMl&ust=1571422650981906>
