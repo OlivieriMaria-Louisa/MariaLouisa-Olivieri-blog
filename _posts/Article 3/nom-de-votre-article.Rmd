@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Details
 
 * **Source of the article:** 
-<https://www.theguardian.com/environment/2019/oct/29/australias-beloved-native-birds-are-disappearing-and-the-cause-is-clear> from Jeremy Simmonds, Alvaro Salazar, James Watson & Martine Maron, 28-10-2019.
+<https://theconversation.com/most-native-bird-species-are-losing-their-homes-even-the-ones-you-see-every-day-123007> from Jeremy Simmonds, Alvaro Salazar, James Watson & Martine Maron, 28-10-2019.
 * **Word count:** 824
 
 ![](native bird.jpg.jpg)
@@ -67,8 +67,8 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers                  | -> *Jeremy Simmonds*: postdoctoral research fellow in conservation science, at the University of Queensland + -> *Alvaro Salazar*: postdoctoral research fellow at the University of Queensland + -> *James Watson*: professor at the University of Queensland + -> *Martine Maron*: professor of environmental management at the University of Queensland.
 | Published in?                | 28 October 2019 |
 | General topic?               | Native birds from Australia are disappearing because of the urbanisation, the destruction of the wildlife. --> Because of the **habitat loss**. |
-| Procedure/what was examined? | |
-| Conclusions/discovery?       | Across Australia, **+60%** of 262 native birds have lost their habitat according to the *Loss Index*. They recorded that **52%** of birds in this country have declined since 1985 to 2015. + *The Living Planet Index* noticed that that more than **4000 birds** have decreased by more than half since 1970. --> Big link between habitat loss and decrease of population of birds. |
+| Procedure/what was examined? | **Urbanization** and **urban development** destroy vegetation and many natural habitats. --> These destructions affect species (**extinction**) --> Scientists have developed a **loss index** to indicate how habitat loss affects Australian birds --> Many birds not recognized as being in danger have **disappeared** --> Scientists have noticed that even removing *one hectare* has a big negative impact on birds. --> This *loss index* allow them to compare different groups in front of habitat loss --> They used the **Living Planet Index** to compare these lost around the world. --> Big problem in the health of ecosystem. --> Common species are in big **danger**. --> We can not wait, otherwise these species will disappear under our eyes. |
+| Conclusions/discovery?       | Across Australia, **+60%** of 262 native birds have lost their habitat according to the *Loss Index*. They recorded that **52%** of birds in this country have declined since 1985 to 2015. + *The Living Planet Index* noticed that that more than **4000 birds** have decreased by more than half since 1970. **Parrots** are the most struck. --> Big link between habitat loss and decrease of population of birds. |
 | Remaining questions?         | / |
 
 ## Sources

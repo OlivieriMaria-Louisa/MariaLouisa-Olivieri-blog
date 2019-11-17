@@ -105,3 +105,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ### **05/11/19**
 
 * I worked on my third article for my portfolio about birds from Australia.
+
+### **15/11/19**
+
+* I worked on my presentation about the *Washington Monument*
+* I watched some videos on youtube about Evolution.
+
+### **17/11/19**
+
+* I practiced my oral presentation.
+* I read my fourth article for my portfolio.
