@@ -106,6 +106,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * I worked on my third article for my portfolio about birds from Australia.
 
+### **10/11/19**
+
+* I watched videos about *movies* on Youtube: <https://www.youtube.com/watch?v=qQ2UtHMtOZk>, <https://www.youtube.com/watch?v=nVRzCE7LmdI&t=35s>, <https://www.youtube.com/watch?v=Ga0rs2G8BGI&t=2s>
+
 ### **15/11/19**
 
 * I worked on my presentation about the *Washington Monument*
@@ -115,3 +119,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * I practiced my oral presentation.
 * I read my fourth article for my portfolio.
+* I watched a video about *diffusion* <https://www.youtube.com/watch?v=jhszFBtBPoI>
