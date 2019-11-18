@@ -43,8 +43,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Downward | Moving or leading towards a lower place or level | A la baisse |
 | Rainbow bee-eater | A migratory bee-eater which has multicoloured plumage and a black eyestripe | Guêpier arc-en-ciel |
 | Double-barred finch | Bird found in dry savannah, tropical dry grassland and shrubland habitats in northern and eastern Australia | Diamant de Bicheno |
-| Pale-headed rosella | It is a moderate-size parrot with a pale yellow head, predominantly white cheeks, scalloped black and gold back and pale blue underparts |
-
+| Pale-headed rosella | It is a moderate-size parrot with a pale yellow head, predominantly white cheeks, scalloped black and gold back and pale blue underparts | Perruche à tête pâle |
 ![](file-20190916-19063-15px1gs.jpg)
 *Rainbow bee-eater*, *Double-barred finch*, *Pale-headed rosella*
 
