@@ -120,3 +120,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * I practiced my oral presentation.
 * I read my fourth article for my portfolio.
 * I watched a video about *diffusion* <https://www.youtube.com/watch?v=jhszFBtBPoI>
+
+### **18/11/19**
+
+* I watched the movie *Batman the Dark Knight* in English with English subtitle.
