@@ -124,3 +124,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ### **18/11/19**
 
 * I watched the movie *Batman the Dark Knight* in English with English subtitle.
+
+### **19/11/19**
+
+* I watched a video for my Biochemistry lab <https://www.youtube.com/watch?v=yjLB_ntM324> 
+* I watched a video about Biology <https://www.youtube.com/watch?v=wENhHnJI1ys&t=2s>
