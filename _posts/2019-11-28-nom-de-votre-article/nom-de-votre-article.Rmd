@@ -50,7 +50,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers                  | --> *Kerrie Wilcox*: Researcher who works for the *Project FeederWatch* in Canada. + --> *Tom Preney*: Biodiversity coordinator of K.Wilcox. |
 | Published in?                | 21 November 2019 |
 | General Topic                | In view of the report on the huge decline of birds since 1970, citizens can help birds by feeding them during the winter with **feeders**. This idea can both help birds through the winter but also help scientists by observing them, counting them, etc. |
-| Procedure/what was examined? | |
+| Procedure/what was examined? | Since the report of the decline of birds since 1970 (decrease of **29%**), researchers created the *Project FeederWatch* (This project runs from November to April 2020) --> This project involves putting **feeders** in green spaces to feed the birds. --> People will be able to observe the birds, identify them, count them, etc., and report these data to the scientists to help them. --> This **increases the number of data**. --> The *33-year project of Birds Canada* and the *Cornell Lab of Ornithology* will help volunteers to identify the birds and by providing information on feeders. --> This project could also help birds through the winter.|
 | Conclusions/discovery?       | There is an **increase** in the number of people who place feeders in their gardens and report information on the birds they observe. |
 | Remaining questions?         | / |
 
