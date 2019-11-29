@@ -6,7 +6,7 @@ author:
   - name: Olivieri Maria-Louisa
     url: {}
 date: 11-28-2019
-preview: feeder.jpg
+preview: feed.jpg
 output:
   distill::distill_article:
     self_contained: false
