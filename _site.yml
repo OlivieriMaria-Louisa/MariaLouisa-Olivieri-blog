@@ -1,7 +1,9 @@
 name: "blog-template"
 title: "Maria's Blog"
 output_dir: "docs"
-navbar:
+favicon: 
+navbar: 
+  logo: 
   right:
     - text: "Home"
       href: index.html
