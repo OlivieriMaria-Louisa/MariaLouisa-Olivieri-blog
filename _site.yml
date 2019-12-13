@@ -1,9 +1,10 @@
 name: "blog-template"
 title: "Maria's Blog"
 output_dir: "docs"
-favicon: 
+favicon: "image/logo.png"
 navbar: 
   logo: 
+   image: "image/logo1.jpg"
   right:
     - text: "Home"
       href: index.html

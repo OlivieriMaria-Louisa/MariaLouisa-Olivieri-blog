@@ -139,3 +139,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * I watched the film *The Irishman* on *Netflix*
 
+### **10/12/19**
+
+* I watched **Sugar rush** on Netflix.
+* I read the book *The rats in the walls*
+
