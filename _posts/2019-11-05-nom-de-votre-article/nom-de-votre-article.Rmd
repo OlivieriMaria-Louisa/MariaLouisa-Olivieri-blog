@@ -137,10 +137,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### **27/11/19**
 
-* I watched the film *The Irishman* on *Netflix*
+* I watched the film *The Irishman* on *Netflix*.
 
 ### **10/12/19**
 
 * I watched **Sugar rush** on Netflix.
-* I read the book *The rats in the walls*
+* I read the book *The rats in the walls*.
 
