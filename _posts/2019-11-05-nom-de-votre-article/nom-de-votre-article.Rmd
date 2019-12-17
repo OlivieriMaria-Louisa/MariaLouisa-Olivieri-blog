@@ -144,3 +144,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * I watched **Sugar rush** on Netflix.
 * I read the book *The rats in the walls*.
 
+### **13/12/19**
+
+* I watched **V Wars** on *Netfix*.
+
