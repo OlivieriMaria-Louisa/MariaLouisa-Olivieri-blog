@@ -148,3 +148,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * I watched **V Wars** on *Netfix*.
 
+### **10/02/20**
+
+* I watched a lot of series on *Netflix* since the end of January.
+

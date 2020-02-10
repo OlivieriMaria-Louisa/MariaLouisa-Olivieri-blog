@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-10-nom-de-votre-article/",
+    "title": "In the Midst of Australia’s Bushfires, Bird Population Plunges",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Olivieri Maria-Louisa",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-10",
+    "categories": [],
+    "preview": "posts/2020-02-10-nom-de-votre-article/fire.jpg",
+    "last_modified": "2020-02-10T18:26:45+01:00"
+  },
+  {
     "path": "posts/2019-11-05-nom-de-votre-article/",
     "title": "My english activity log",
     "description": "This post represents all of my English activities. (series, videos, articles, homework, ...)",
