@@ -1,7 +1,7 @@
 ---
 title: "In the Midst of Australia’s Bushfires, Bird Population Plunges"
 description: |
-  A short description of the post.
+  This article talks about the impact of Australia's bushfires on birds’ population  .
 author:
   - name: Olivieri Maria-Louisa
     url: {}
@@ -52,7 +52,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |
+| Researchers                  | -> *Michael Webster*, professor in neurobiology and behavior (Study Australian birds since 1992) |
+| Published in?                | 6 February 2020 |
+| General Topic                | The impact of Australia's bushfires on birds’ breeding behavior
+| Procedure/what was examined? | He has been working since 1992 on **ecological impacts** on the reproduction of birds --> Every year he goes to Australia to watch for **bird nests** --> This year there were only **250** nests out of the **800**, and they were not affected by the fire --> Consequence of the **heat** and **dry** conditions --> If it's too hot, there are fewer insects, so less reproduction of birds --> Bird populations are **ecological indicators**, their decline is synonymous with ecological danger.
+| Conclusions/discovery?       | The fires have an indirect impact on the reproduction of birds, it is not the biggest problem. The worst are the too **dry conditions**, When this happens, birds don't breed. |
+| Remaining questions?         | / |
 
 ## Sources
 
