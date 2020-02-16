@@ -152,3 +152,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * I watched a lot of series on *Netflix* since the end of January.
 
+### **16/02/20**
+
+* I watched this video about the etologist *Jane Goodall* <https://video.nationalgeographic.com/video/00000144-0a34-d3cb-a96c-7b3d061b0000> 
+* I starded to work on Jane Goodall for the oral presentation with this page: <https://en.wikipedia.org/wiki/Jane_Goodall>
