@@ -1,6 +1,21 @@
 [
   {
-    "path": "posts/2020-02-10-nom-de-votre-article/",
+    "path": "posts/Article 7/",
+    "title": "India's bird population 'going down sharply'",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Olivieri Maria-Louisa",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-24",
+    "categories": [],
+    "preview": "posts/Article 7/paon.jpg",
+    "last_modified": "2020-02-24T11:21:00+01:00"
+  },
+  {
+    "path": "posts/Article 6 /",
     "title": "In the Midst of Australia’s Bushfires, Bird Population Plunges",
     "description": "This article talks about the impact of Australia's bushfires on birds’ population  .",
     "author": [
@@ -11,11 +26,11 @@
     ],
     "date": "2020-02-10",
     "categories": [],
-    "preview": "posts/2020-02-10-nom-de-votre-article/fire.jpg",
-    "last_modified": "2020-02-12T20:35:05+01:00"
+    "preview": "posts/Article 6 /fire.jpg",
+    "last_modified": "2020-02-16T15:57:04+01:00"
   },
   {
-    "path": "posts/2019-11-05-nom-de-votre-article/",
+    "path": "posts/English activ/",
     "title": "My english activity log",
     "description": "This post represents all of my English activities. (series, videos, articles, homework, ...)",
     "author": [
@@ -26,11 +41,11 @@
     ],
     "date": "2019-12-09",
     "categories": [],
-    "preview": "posts/2019-11-05-nom-de-votre-article/english.jpg",
-    "last_modified": "2020-02-16T14:56:27+01:00"
+    "preview": "posts/English activ/english.jpg",
+    "last_modified": "2020-02-16T16:02:39+01:00"
   },
   {
-    "path": "posts/2019-12-08-nom-de-votre-article/",
+    "path": "posts/Article 5/",
     "title": "Bird Bodies are Morphing in North America",
     "description": "This article presents a discovery on the morphology of changing birds due to global warming.",
     "author": [
@@ -41,11 +56,11 @@
     ],
     "date": "2019-12-08",
     "categories": [],
-    "preview": "posts/2019-12-08-nom-de-votre-article/bird.jpg",
-    "last_modified": "2019-12-13T12:14:57+01:00"
+    "preview": "posts/Article 5/bird.jpg",
+    "last_modified": "2020-02-16T16:02:19+01:00"
   },
   {
-    "path": "posts/2019-11-28-nom-de-votre-article/",
+    "path": "posts/Article 4/",
     "title": "Shocking bird decline makes winter bird feeder watching key",
     "description": "This article explains why placing feeders in our gardens can help birds.",
     "author": [
@@ -56,8 +71,8 @@
     ],
     "date": "2019-11-28",
     "categories": [],
-    "preview": "posts/2019-11-28-nom-de-votre-article/feed.jpg",
-    "last_modified": "2019-11-29T17:40:20+01:00"
+    "preview": "posts/Article 4/feed.jpg",
+    "last_modified": "2020-02-16T16:01:46+01:00"
   },
   {
     "path": "posts/Article 3/",
@@ -104,6 +119,6 @@
     "date": "2019-10-19",
     "categories": [],
     "preview": "posts/Article 1/sparrow.jpg",
-    "last_modified": "2019-11-05T18:16:34+01:00"
+    "last_modified": "2020-02-16T16:01:15+01:00"
   }
 ]
