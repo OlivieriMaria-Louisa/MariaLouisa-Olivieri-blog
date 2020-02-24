@@ -42,10 +42,9 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers                  | -> *MD Madhusudan*, co-founder of Nature Conservation Foundation + -> *eBird*, a global crowdsourced database |
 | Published in?                | 18 February 2020 | 
 | General Topic                | The decline of some bird species in India as well as the increase of other species |
-| Procedure/what was examined? | Study conducted by bird watchers (15,000) amateurs (867 birds) -> *decline* of somes species ( eagles, vultures, warblers and migrating shorebirds. ) ->  *increase* of other species (peafowl, the national bird)
-| Conclusions/discovery?       |
+| Procedure/what was examined? | Study conducted by bird watchers (15,000) amateurs (867 birds) -> *decline* of somes species ( eagles, vultures, warblers and migrating shorebirds. ) ->  *increase* of other species (peafowl, the national bird) -> The main causes are *hunting*, *habitat loss* and "collision" with *electricity lines* -> 2 studies were carried out in parallel: the drop in bird population over the last 25 years, and over the last 5 years -> Attention to the fact that the study was conducted are not on global populations of birds but on individual species -> Data missing
+| Conclusions/discovery?       | Decline of **52%** over the last 25years / decline of **80%** over the last 5 years -> Birds disappear, others reappear
 | Remaining questions?         | / |
-
 
 ## Sources
 
