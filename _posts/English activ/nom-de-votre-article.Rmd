@@ -156,3 +156,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * I watched this video about the etologist *Jane Goodall* <https://video.nationalgeographic.com/video/00000144-0a34-d3cb-a96c-7b3d061b0000> 
 * I starded to work on Jane Goodall for the oral presentation with this page: <https://en.wikipedia.org/wiki/Jane_Goodall>
+
+### **March**
+
+* I watched the all season of *The Witcher* on *Netflix*
+* I worked a lot about *Bird populations* for my portfolio
+
+### **April**
+
+* During the all confinement, I watched a lot of videos on Youtube about molecular biology like; <https://www.youtube.com/watch?v=CxxQ5i97YB0>, <https://www.youtube.com/watch?v=nMmLERvK6tI>
+* I watched *The Shining* in English without subtiles ( Really hard and scary)
+
